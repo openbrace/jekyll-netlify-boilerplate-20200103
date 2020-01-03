@@ -3,7 +3,7 @@ layout: post
 title: Dating? Top Facts About Aquarian Versus Cancer Woman
 author: dan_urbanowicz
 date: '2018-07-03 12:00:00'
-intro_paragraph: ''
+intro_paragraph: '![Aquarian Versus Cancer](/assets/img/uploads/girl_ngsdyp-1-.jpg)'
 categories: misc
 ---
 This post is for those men dating between a Aquaris versus a Cancer Woman. It is wise that you read your lover’s personality traits based on Astrology. Nothing written here proves they tend to behave in such ways. Having said that read on to learn more about the women you love.
