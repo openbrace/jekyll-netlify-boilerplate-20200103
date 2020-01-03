@@ -3,20 +3,11 @@ layout: post
 title: Dating? Top Facts About Aquarian Versus Cancer Woman
 author: dan_urbanowicz
 date: 2018-07-11T00:12:57.000Z
-intro_paragraph: >-
-
-
-  ![Aquarian Vs Cancer](/assets/img/uploads/girl_ngsdyp-1-.jpg)
-
-
-
-
-  This post is for those men dating between a Aquaris versus a Cancer Woman. It
-  is wise that you read your lover’s personality traits based on Astrology.
-  Nothing written here proves they tend to behave in such ways. Having said that
-  read on to learn more about the women you love.
+intro_paragraph: '![Aquarian Vs Cancer](/assets/img/uploads/girl_ngsdyp-1-.jpg)'
 categories: misc
 ---
+This post is for those men dating between a Aquaris versus a Cancer Woman. It is wise that you read your lover’s personality traits based on Astrology. Nothing written here proves they tend to behave in such ways. Having said that read on to learn more about the women you love.
+
 ## Aquaris
 
 The age of Aquarius has been celebrated in song and on film, and for good reason. The Zodiac sign known as Aquarius has a rich and storied history, and some of the most unique. Individuals in the arts were born under this star ggn.
