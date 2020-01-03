@@ -11,11 +11,11 @@ intro_paragraph: >-
 
 
   Precise dates, important choices, life-changing encounters, [daily
-  advice](./blog)… Find out what changes this spring will bring you! 
+  advice](./blog)… 
 
 
-  Astromarry helps you discover yourselves. Adds perspectives for your personal
-  development, growth and positive forceful changes. 
+  Add perspectives for your personal development, growth and positive forceful
+  changes. 
 
 
   Let the universe help you on your way to success.
