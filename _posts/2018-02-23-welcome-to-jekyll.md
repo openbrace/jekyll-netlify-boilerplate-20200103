@@ -4,9 +4,6 @@ title: Dating? Top Facts About Aquarian Versus Cancer Woman
 author: dan_urbanowicz
 date: '2018-07-03 12:00:00'
 intro_paragraph: >-
-  <!--StartFragment-->
-
-
   This post is for those men dating between a Aquaris versus a Cancer Woman. It
   is wise that you read your lover’s personality traits based on Astrology.
   Nothing written here proves they tend to behave in such ways. Having said that
@@ -92,9 +89,6 @@ intro_paragraph: >-
   that has run its course. This dinginess can be a problem for many men. A
   Cancer woman can also be a bit moody at times, and men in their life will need
   to be prepared for her changing moods.
-
-
-  <!--EndFragment-->
 categories: misc
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
