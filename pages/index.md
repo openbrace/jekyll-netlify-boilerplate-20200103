@@ -1,12 +1,27 @@
 ---
 layout: home
-title: Welcome
+title: ' Astro Marry'
 permalink: /
 section: home
-intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+intro_paragraph: >-
+  Astro Marry provides Professional Vedic **Astrology** for **Matrimonial
+  Consultation**. 
+
+
+  Discover what the future holds for you.
+
+
+  > Precise dates, important choices, life-changing encounters, daily advice…
+  Find out what changes this spring will bring you!
+
+
+  … and
+
+
+  > Perspectives for your personal development, growth and positive forceful
+  changes. 
+
+
+  Let the universe help you on your way to success. Discover yourselves.
 ---
+
