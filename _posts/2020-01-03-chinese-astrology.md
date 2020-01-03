@@ -33,7 +33,7 @@ The Destructive Cycle is used to correct for imbalances where there is too much 
 
 The Constructive Cycle is the one used in the 60-year cycle of Chinese astrology. Because both the yin and yang aspects of each element are used, the result is a cycle of ten phases, called stems.
 
-The ten stemsare:
+The ten stems are:
 
 * Yang Wood
 * Yin Wood
