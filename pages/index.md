@@ -4,24 +4,20 @@ title: ' Astro Marry'
 permalink: /
 section: home
 intro_paragraph: >-
-  Astro Marry provides Professional Vedic **Astrology** for **Matrimonial
-  Consultation**. 
+  Professional Vedic Astrology for Matrimonial Consultation. 
 
 
   Discover what the future holds for you.
 
 
-  > Precise dates, important choices, life-changing encounters, daily advice…
-  Find out what changes this spring will bring you!
+  Precise dates, important choices, life-changing encounters, [daily
+  advice](./blog)… Find out what changes this spring will bring you! 
 
 
-  … and
+  Astromarry helps you discover yourselves. Adds perspectives for your personal
+  development, growth and positive forceful changes. 
 
 
-  > Perspectives for your personal development, growth and positive forceful
-  changes. 
-
-
-  Let the universe help you on your way to success. Discover yourselves.
+  Let the universe help you on your way to success.
 ---
 
