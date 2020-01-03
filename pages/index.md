@@ -15,9 +15,6 @@ intro_paragraph: >-
 
 
   Add perspectives for your personal development, growth and positive forceful
-  changes. 
-
-
-  Let the universe help you on your way to success.
+  changes.
 ---
 
