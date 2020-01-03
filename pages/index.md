@@ -1,12 +1,9 @@
 ---
 layout: home
-title: ' Astro Marry'
+title: Professional Vedic Astrology for Matrimonial Consultation.
 permalink: /
 section: home
 intro_paragraph: >-
-  Professional Vedic Astrology for Matrimonial Consultation. 
-
-
   Discover what the future holds for you.
 
 
