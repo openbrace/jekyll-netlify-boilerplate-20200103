@@ -9,7 +9,7 @@ Affirmations, prayer, and spells involve incantations, otherwise known as chants
 
 Although Spiritual incantations might seem like mumbo jumbo to some people, science tells us their usage is legitimate. Everything is made of energy, even your thoughts and intentions. Hence, you intuitively know whether the people you meet are emitting a positive or negative vibe.
 
-## What does it mean to be spiritual?
+### What does it mean to be spiritual?
 
 If you want to expand positive energy, and inspire yourself or others to change, adopting a ritualistic approach to stringing words together and carefully choosing those words might help. Further, repeating incantations strengthens beliefs. The more you hear, think, and say the same series of words, the more deeply they embed in your mind.
 
@@ -17,7 +17,7 @@ You can purposely adopt a belief by planting it in your brain via an incantation
 
 Incantations help you identify your needs and provide a vehicle in which they can travel and build. Affirmations, for instance, work when repeated often. Self-belief grows as layer upon layer of positive words shift your perspective. Your motivation toward what you want increases when you say your chosen incantations too since you keep your intentions in mind.
 
-## Live a Life – Be Spiritual
+### Live a Life – Be Spiritual
 
 The benefits of being a spiritual person are endless. Living a life based on spiritual principles opens the door to a freedom that few will ever know. What does it mean to be spiritual? What is the difference between spirituality and religion? What if I’ve done horrible things in my life? These are all valid questions. Let’s take a deeper look at spirituality and the many ways in which it enhances one’s life.
 
@@ -25,7 +25,7 @@ This question goes hand-in-hand with the question, “What is the difference bet
 
 Spirituality is the belief that we come from love and will return to love. You build the foundation of your spiritual beliefs on your conception of your higher power. This can be different for many people. Some believe that we are created by an individual being with unconditional love. Others believe that Mother Nature, herself, is a power of love. Still, others look to the sun, moon, trees, or even positive energies of an intangible nature.
 
-## Living w/out Guilt & Shame
+### Living w/out Guilt & Shame
 
 Can I really live without guilt and shame?
 
