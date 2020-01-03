@@ -1,9 +1,12 @@
 ---
 layout: home
-title: Professional Vedic Astrology for Matrimonial Consultation.
+title: Discover Yourselves
 permalink: /
 section: home
 intro_paragraph: >-
+  Professional Vedic Astrology for Matrimonial Consultation.
+
+
   Discover what the future holds for you.
 
 
